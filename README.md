@@ -5,4 +5,6 @@
 
 2- Após isso basta fazer download e abrir o arquivo "python_pong.blend" dentro da "UPBGE".
 
-3- O único arquivo necessário para rodar o projeto é o "python_pong.blend" e os arquivos de áudio, os outros arquivos .py eu apenas coloquei aqui no GitHub para que vocês pudessem ver a lógica de programação por trás do game antes mesmo de fazer o download do projeto em si.</b>
+3- O único arquivo necessário para rodar o projeto é o "python_pong.blend" e os arquivos de áudio, os outros arquivos .py eu apenas coloquei aqui no GitHub para que vocês pudessem ver a lógica de programação por trás do game antes mesmo de fazer o download do projeto em si.
+
+4- Download do executável: https://mega.nz/file/UYUC1A4R#tHH0hCwg1YPnAbLV5z_uH_ye1vedSYAu2tGJQcb7qjI</b>
